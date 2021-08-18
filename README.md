@@ -1,1 +1,1 @@
-[https://princess-resume.herokuapp.com/ ] Resume Link
+[https://farouk-resume.herokuapp.com/ ] Resume Link
